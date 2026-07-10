@@ -1,0 +1,3 @@
+2026-07-10 14:23:46; Figura: Prostokąt; Pole: 20,00
+2026-07-10 14:23:50; Figura: Prostokąt; Pole: 20,00
+2026-07-10 14:23:58; Figura: Romb; Pole: 30,00

@@ -1,0 +1,11 @@
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\bin\Debug\net9.0\FigureAreaCalculator.DataModel.deps.json
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\bin\Debug\net9.0\FigureAreaCalculator.DataModel.dll
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\bin\Debug\net9.0\FigureAreaCalculator.DataModel.pdb
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.AssemblyInfoInputs.cache
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.AssemblyInfo.cs
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.csproj.CoreCompileInputs.cache
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.dll
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\refint\FigureAreaCalculator.DataModel.dll
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\FigureAreaCalculator.DataModel.pdb
+E:\VisualStudio\c#\FigureAreaCalculator\FigureAreaCalculator.DataModel\obj\Debug\net9.0\ref\FigureAreaCalculator.DataModel.dll

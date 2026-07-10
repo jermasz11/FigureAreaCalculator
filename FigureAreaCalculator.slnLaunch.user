@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Nowy Profil",
+    "Projects": [
+      {
+        "Path": "FigureAreaCalculator.View\\FigureAreaCalculator.View.csproj",
+        "Action": "Start",
+        "DebugTarget": "FigureAreaCalculator.View"
+      }
+    ]
+  }
+]
