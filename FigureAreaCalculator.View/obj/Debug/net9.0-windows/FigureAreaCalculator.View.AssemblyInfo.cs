@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FigureAreaCalculator.View")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43c0be2479b472680312cf45328b8d6b5db70e92")]
 [assembly: System.Reflection.AssemblyProductAttribute("FigureAreaCalculator.View")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FigureAreaCalculator.View")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
